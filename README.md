@@ -1,2 +1,18 @@
-# introduction_to_practical_graph_analysis
-Introduction to practical graph analysis
+# Introduction to practical graph analysis
+## Common tasks
+
+## Instruments and tools
+
+## Neo4j
+
+## GraphFrame
+
+## Key-value storages
+
+## Visualization
+### NetworkX
+
+## Big Data Challenges
+### Google
+### Yandex
+### Facebook
