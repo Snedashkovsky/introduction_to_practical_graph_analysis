@@ -1,4 +1,4 @@
-# Introduction to practical graph analysis
+# Introduction to Practical Graph Analysis
 ## Common tasks
 
 ## Instruments and tools
