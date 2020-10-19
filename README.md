@@ -1,5 +1,9 @@
 # Introduction to Practical Graph Analysis
 
+[Slides](https://docs.google.com/presentation/d/1biq-EnF6GZ-A3FPuKTz8jv_He-wu8juOfa7Z0mUs3NM/edit?usp=sharing)  
+[Video (in Russian)](https://youtu.be/fZWcYnVoIhs)
+
+
 ## How to store?
 
 ### What is a graph?
